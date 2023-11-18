@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /*
- * This file is part of Contao Chart.js.
+ * This file is part of Contao Swiper Bundle.
  *
  * (c) Hamid Peywasti 2023 <hamid@respinar.com>
  *
